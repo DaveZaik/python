@@ -8,4 +8,4 @@ elif age >15 and age <=19:
 elif age >19 :
     print("You are in College")
 else:
-    print("Your a Dropout!")
+    print("Your a Dropout!") 
