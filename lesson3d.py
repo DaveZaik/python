@@ -26,10 +26,3 @@ for number in range(5,10,2):
 # Down to
 for number in range (10,0,-3) :
  print (number,"Down to")
-
-# list
-# tuple
-height=1.9
-weight=40
-BMI=weight/height**2
-print(BMI)
