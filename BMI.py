@@ -1,7 +1,7 @@
 # list
 # tuple
-height=2.7
-weight=60
+height=1.9
+weight=72
 BMI=weight/height**2
 print(BMI)
 if BMI >=18.5 and BMI<=22.9:
